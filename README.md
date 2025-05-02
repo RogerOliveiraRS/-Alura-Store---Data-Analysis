@@ -1,4 +1,4 @@
-# Análise de Dados para Alura StoreBR  
+# Análise de Dados
 
 ![Capa](/Imagens_AluraStore/Capa.png)  
 
