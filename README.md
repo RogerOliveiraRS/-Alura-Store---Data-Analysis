@@ -1,4 +1,4 @@
-# Análise de Dados
+# Análise de Dados para Alura StoreBR  
 
 ![Capa](/Imagens_AluraStore/Capa.png)  
 
@@ -77,4 +77,33 @@ A **Loja 4**, apesar do menor faturamento, não apresenta grande diferença nos 
 ## Média de Avaliação das Lojas  
 
 ### Avaliação Geral  
-A **Loja 4**, além de ter o menor faturamento, recebe a **segunda pior avaliação
+A **Loja 4**, além de ter o menor faturamento, recebe a **segunda pior avaliação**, indicando problemas na experiência do cliente.  
+
+![Gráfico Média de Avaliação](/Imagens_AluraStore/Gráfico%20pizza%20média_avaliações_loja.png)  
+
+### Comparação das Avaliações  
+Todas as lojas possuem avaliações médias semelhantes (**nota 3**), enquanto as **lojas 1 e 4 apresentam mais avaliações negativas** (notas 1 e 2).  
+
+![Gráfico Avaliação por Tipo](/Imagens_AluraStore/Gráfico%20barra%20Aval_Boa_Ruim_neutra.png)  
+
+## Frete Médio por Loja  
+Não há diferença significativa nos custos de frete entre as lojas, o que indica que **o frete não impacta diretamente no faturamento**.  
+
+![Gráfico Frete Médio](/Imagens_AluraStore/frete%20medio.png)  
+
+## Conclusão  
+
+A análise detalhada dos **dados financeiros, operacionais e de satisfação dos clientes** das quatro lojas da **Alura Store** permite a formulação de recomendações estratégicas embasadas.
+
+Os principais **insights** observados incluem:  
+
+- **Loja 1** apresenta o **melhor desempenho**, sendo a unidade com maior faturamento e estabilidade financeira.  
+- **Loja 2** segue como a **segunda melhor loja**, mantendo um faturamento sólido e comportamento consistente ao longo dos meses.  
+- **Loja 3** demonstra **crescimento acelerado**, evidenciando potencial de expansão e maior geração de receita futura.  
+- **Loja 4** sofre com **baixo faturamento, avaliação negativa e queda constante nas vendas**, tornando-se uma candidata viável para descontinuação.  
+
+Diante desses fatores, recomenda-se aos **stakeholders** a **revisão da operação da Loja 4**, considerando **seu fechamento** como estratégia de otimização do negócio.  
+
+Em contrapartida, a **Loja 3 merece maior investimento**, dado seu **crescimento expressivo e sustentado**, podendo tornar-se um novo pilar de alta rentabilidade no futuro.  
+
+Com essa abordagem, a **Alura Store** poderá redirecionar seus recursos de maneira estratégica, garantindo **maior eficiência operacional e expansão sustentável**.  
